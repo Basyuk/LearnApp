@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Задание1_Массивы</string>
+    <string name="textViewArray">Массив</string>
+    <string name="buttonShowArray">Показать массив</string>
+    <string name="buttonAddElement">Добавить элемент</string>
+    <string name="editTextAddElement">Введите элемент</string>
+    <string name="buttonDeleteElement">Удалить элемент</string>
+    <string name="editTextDeleteElement">Введите элемент</string>
+</resources>

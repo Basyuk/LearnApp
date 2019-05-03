@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ex1_Massive</string>
+    <string name="textViewArray">Array</string>
+    <string name="buttonShowArray">Show array</string>
+    <string name="buttonAddElement">Add element</string>
+    <string name="editTextAddElement">Enter element</string>
+    <string name="buttonDeleteElement">Delete element</string>
+    <string name="editTextDeleteElement">Enter element</string>
+    <string name="buttonAddElement">Add element</string>
+    <string name="editTextAddElement">Enter element</string>
+</resources>
