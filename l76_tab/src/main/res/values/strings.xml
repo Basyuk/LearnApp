@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">l76_Tab</string>
+    <string name="text_tab1">Первая вкладка</string>
+    <string name="text_tab2">Вторая вкладка</string>
+    <string name="text_tab3">Третья вкладка</string>
+    <string name="text_tab_header">Свой заголовок</string>
+</resources>
