@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">l104_FragmentLifecycle</string>
+    <string name="frag1_text">Fragment1</string>
+    <string name="frag2_text">Fragment2</string>
+</resources>
